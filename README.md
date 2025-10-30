@@ -1,7 +1,7 @@
 # Edge-Linking-using-Hough-Transformm
 
 
-## Developed By: SANJAYV
+## Developed By: SANJAY V
 ## Reg.No.: 212223230188
 ## Date : 30/10/25
 ## Aim:
@@ -28,7 +28,7 @@ Using Canny operator from cv2,detect the edges of the image.
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 
 ## Program
-## Developed By: SANJAYV
+## Developed By: SANJAY V 
 ## Reg.No.: 212223230188
 
 ## Input image
